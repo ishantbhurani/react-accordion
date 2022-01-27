@@ -29,7 +29,7 @@ Inspired by [Netflix's FAQ section](https://www.netflix.com/in/)
 
 ### Links
 
-- Live Site URL: [react-accordion-ishant.netlify.app](react-accordion-ishant.netlify.app)
+- Live Site URL: [https://react-accordion-ishant.netlify.app/](https://react-accordion-ishant.netlify.app/)
 
 ### Features
 
